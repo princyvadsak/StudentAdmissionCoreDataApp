@@ -4,8 +4,15 @@
 #  StudentAdmissionCoreDataApp Application Using Core Date
 
 
-# List Of UiElements Which Is Use In This Application:
-* UIButton
+# List Of Elements Which Is Use In This Application:
+#### * UIButton
+#### * UILable
+#### * UITableview
+#### * Core Date
+#### * User Defaults
+#### * Tab Bar
+#### * Entity Student With Attributes Like Name,Classes,Age
+
 
 # Gif Of StudentAdmissionCoreDataApp Application 
 ![studentadmissioncodedataappgif](https://user-images.githubusercontent.com/81640415/125163887-e22a9c80-e1ac-11eb-9508-10036ac46152.gif)
