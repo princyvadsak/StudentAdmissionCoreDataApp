@@ -5,13 +5,13 @@
 
 
 # List Of Elements Which Is Use In This Application:
-#### * UIButton
-#### * UILable
-#### * UITableview
-#### * Core Date
-#### * User Defaults
-#### * Tab Bar
-#### * Entity Student With Attributes Like Name,Classes,Age
+####* UIButton
+####* UILable
+####* UITableview
+####* Core Date
+####* User Defaults
+####* Tab Bar
+####* Entity Student With Attributes Like Name,Classes,Age
 
 
 # Gif Of StudentAdmissionCoreDataApp Application 
