@@ -7,6 +7,9 @@
 # List Of UiElements Which Is Use In This Application:
 * UIButton
 
+# Gif Of StudentAdmissionCoreDataApp Application 
+![studentadmissioncodedataappgif](https://user-images.githubusercontent.com/81640415/125163887-e22a9c80-e1ac-11eb-9508-10036ac46152.gif)
+
 
 # Screenshots Of StudentAdmissionCoreDataApp Application 
 
