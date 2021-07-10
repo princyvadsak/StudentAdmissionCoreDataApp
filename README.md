@@ -2,16 +2,18 @@
 ### Created By Vadsak Princy Hareshbhai  On 10 July 2021
 
 #  StudentAdmissionCoreDataApp Application Using Core Date
+In this application we use the core data for the manage of student data.we can store data,fetch data,upadte data and remove the data from it.
 
+In this application, in the first page display two button. "Admin Login" button is use for the login as the admin and another button "Student Login" is for the login as student. 
 
 # List Of Elements Which Is Use In This Application:
-####* UIButton
-####* UILable
-####* UITableview
-####* Core Date
-####* User Defaults
-####* Tab Bar
-####* Entity Student With Attributes Like Name,Classes,Age
+* UIButton
+* UILable
+* UITableview
+* Core Date
+* User Defaults
+* Tab Bar
+* Entity Student With Attributes Like Name,Classes,Age
 
 
 # Gif Of StudentAdmissionCoreDataApp Application 
